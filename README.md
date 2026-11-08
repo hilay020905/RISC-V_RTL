@@ -1,4 +1,4 @@
-# RISC-V-SUITE
+# RISC-V-RTL
 
 A consolidated collection of RISC-V processor implementations and extensions developed using Verilog/SystemVerilog.
 
